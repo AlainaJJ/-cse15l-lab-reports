@@ -5,8 +5,8 @@ There are *Soooooo* many ways to write in markdown!
 **Bold**
 # Heading 1
 ## Heading 2
-[Link](http://a.com)
-![Image](http://url/a.png)
+[Link]()
+![Image](https://alainajj.github.io/cse15l-lab-reports/MarkdownImage.png)
 > Blockquote
 * List
 * List
