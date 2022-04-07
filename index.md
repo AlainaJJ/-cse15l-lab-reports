@@ -1,5 +1,11 @@
 Hello World!
 
+[Lab Report 1](Lab-Report-1.html)
+[Lab Report 1](https://AlainaJJ.github.io/cse15l-lab-reports/Lab-Report-1.html)
+
+
+
+
 There are *Soooooo* many ways to write in markdown!
 *Italic*
 **Bold**
