@@ -46,6 +46,15 @@ This is best seen in the image below where the file *WhereAmI.java* is compiled,
 
 ## **Setting an SSH Key**
 ---
+At this point a frequent problem that you face with wanting to access the server and run the 'scp' command is that you're required to enter your password everytime. This can actually be overcome with something known as an 'ssh key'. An 'ssh key' is used to created public and private keys which you can save in your server directory, to avoid having to type your password everytime. 
+
+To do this type the command 'ssh-keygen' in the VS Studio Code terminal. This creates a copy of the public key on the server, and the private key in the client. When using the command 'ssh-keygen' you will be asked to enter a passphrase, but you can just press enter to avoid having to type in any passphrase at all.
+
+Following this step you will end up wtih two files 'id_rsa' and 'id_rsa.pub', representing the private and public keys respectively. In order to make sure the SSH key works as intended you have to copy the public (id_rsa.pub) key to the ssh directory (cs15lsp22###@ieng6.ucsd.edu).
+[SSH Key Copy](https://alainajj.github.io/cse15l-lab-reports/SSHKeyFirst.png)
+
+Once this step is completed you should be able to log into the SSH without having to type your school password 
+[SSH Key](https://alainajj.github.io/cse15l-lab-reports/SSHKey.png)
 
 ## **Optimizing Remote Running**
 ---
