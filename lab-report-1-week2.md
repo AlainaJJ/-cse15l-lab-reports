@@ -37,6 +37,12 @@ The below image displays these commands in use: [SSH Commands](https://alainajj.
 
 ## **Moving Files with 'scp'**
 ---
+In this section we will cover 'scp' (otherwise known as secure copy). Secure copy is a command that can be used to make a copy, usually between the client (you the user and your files) and the server (the thing you've been struggling to connect to for the last 15 minutes). 
+
+The way scp works is 'scp (file name) (location where you want the file to be copied)
+
+This is best seen in the image below where the file *WhereAmI.java* is compiled, ran, and then scp'd from the client to the server:
+[SCP WhereAmI.java](https://alainajj.github.io/cse15l-lab-reports/SCPJava.png)
 
 ## **Setting an SSH Key**
 ---
