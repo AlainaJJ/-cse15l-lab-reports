@@ -23,7 +23,7 @@ For this step there will be three requirements:
 
 Once you go through all of these steps you should end up with something like this in the
 
-![VS Studio Code Terminal](https://alainajj.github.io/cse15l-lab-reports/RemoteConnectioStart.png)
+![VS Studio Code Terminal](https://alainajj.github.io/cse15l-lab-reports/RemoteConnectionStart.png)
 
 ## **Trying Some Commands**
 ---
@@ -37,7 +37,7 @@ Now to try some useful commands! A list of various commands that can be used in 
 
 The below image displays these commands in use:
 
-![SSH Commands](https://alainajj.github.io/cse15l-lab-reports/CommadsSSH.png)
+![SSH Commands](https://alainajj.github.io/cse15l-lab-reports/CommandsSSH.png)
 
 
 ## **Moving Files with 'scp'**
