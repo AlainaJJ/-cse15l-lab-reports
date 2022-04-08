@@ -58,4 +58,10 @@ Once this step is completed you should be able to log into the SSH without havin
 
 ## **Optimizing Remote Running**
 ---
+Lastly, we will address ways in which you can make this entire process significantly shorter. Some things to note are:
+* when we run 'ssh' we can also call a command afterward like this: 'ssh cs15lsp22###@ieng5.ucsd.edu ls'
+* we can use semicolons to run multiple commands at the same time: 'cp WhereAmI.java; javac WhereAmI.java; java WhereAmI'
 
+Using this knowledge we can show an example of compiling and running a file that was just changed from the client, on the server [Optimized Running](https://alainajj.github.io/cse15l-lab-reports/Optim.png)
+
+We can see that the above code was run in a single line in the ssh server (65 keystrokes if you typed it all out, or a measly 8 if you're lazy like me and copy pasted both the ssh and the compile and run commands)
