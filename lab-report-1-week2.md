@@ -61,6 +61,7 @@ Once this step is completed you should be able to log into the SSH without havin
 Lastly, we will address ways in which you can make this entire process significantly shorter. Some things to note are:
 * when we run 'ssh' we can also call a command afterward like this: 'ssh cs15lsp22###@ieng5.ucsd.edu ls'
 * we can use semicolons to run multiple commands at the same time: 'cp WhereAmI.java; javac WhereAmI.java; java WhereAmI'
+* we can copy paste large segments of code to avoid having to type them out (like the ssh course specific account)
 
 Using this knowledge we can show an example of compiling and running a file that was just changed from the client, on the server [Optimized Running](https://alainajj.github.io/cse15l-lab-reports/Optim.png)
 
