@@ -6,6 +6,7 @@ Logging into your course specific account can be a difficult and confusing task,
 ---
 First, you want to download the IDE Visual Studio Code. If you already have Visual Studio Code downloaded feel free to skip this part. Otherwise, the program can be downloaded by accessing the website:
 [Visual Studio Code Website](https://code.visualstudio.com/)
+
 ![VS Download Page](https://alainajj.github.io/cse15l-lab-reports/VSDownload.png)
 Once you're on this page select download for the particular software you're using.
 
