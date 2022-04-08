@@ -33,6 +33,7 @@ Now to try some useful commands! A list of various commands that can be used in 
 * **ls -lat** shows all of the directories and the time at which they were accessed or created
 
 The below image displays these commands in use:
+
 ![SSH Commands](https://alainajj.github.io/cse15l-lab-reports/CommandsSSH.png)
 
 
