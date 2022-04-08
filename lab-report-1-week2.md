@@ -50,7 +50,7 @@ At this point a frequent problem that you face with wanting to access the server
 
 To do this type the command 'ssh-keygen' in the VS Studio Code terminal. This creates a copy of the public key on the server, and the private key in the client. When using the command 'ssh-keygen' you will be asked to enter a passphrase, but you can just press enter to avoid having to type in any passphrase at all.
 
-Following this step you will end up wtih two files 'id_rsa' and 'id_rsa.pub', representing the private and public keys respectively. In order to make sure the SSH key works as intended you have to copy the public (id_rsa.pub) key to the ssh directory (cs15lsp22###@ieng6.ucsd.edu).
+Following this step you will end up wtih two files 'id_rsa' and 'id_rsa.pub', representing the private and public keys respectively. In order to make sure the SSH key works as intended you have to copy the public (id_rsa.pub) key to the ssh directory (cs15lsp22###@ieng6.ucsd.edu)
 [SSH Key Copy](https://alainajj.github.io/cse15l-lab-reports/SSHKeyFirst.png)
 
 Once this step is completed you should be able to log into the SSH without having to type your school password 
