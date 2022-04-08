@@ -24,6 +24,16 @@ Once you go through all of these steps you should end up with something like thi
 
 ## **Trying Some Commands**
 ---
+Now to try some useful commands! A list of various commands that can be used in the terminal are:
+* **cp /home/linux/ieng6/cs15lsp22/public/hello.txt ~/**,  and  
+* **cat home/linux/ieng6/cs15lsp22/public/hello.txt** returns permission denied, represents that the 		user doesn’t have access 
+* ‘mkdir new’ makes a brand new directory called ‘new’
+* **ls** shows the directories available
+* **ls -a** represents more of the available directories
+* **ls -lat** shows all of the directories and the time at which they were accessed or created
+
+The below image displays these commands in use: [SSH Commands](https://alainajj.github.io/cse15l-lab-reports/CommandsSSH.png)
+
 
 ## **Moving Files with 'scp'**
 ---
