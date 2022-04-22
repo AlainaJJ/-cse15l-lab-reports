@@ -26,6 +26,6 @@ I solved this bug by adding a code that checked for the currentIndex of an open 
 
 The second bug that I dealt with was the file mistakenly adding images as links to the list. It would incorrectly misinterpret the contents inside 
 of the parentheses for a link due to the similar syntax of images and links. The failure inducing input was the use of images 
-("![]()" instead of just "[]()") and the symptom would be the images being added to the list of links. This problem was solved by ensuring that the code 
+("![]" instead of just "[]") and the symptom would be the images being added to the list of links. This problem was solved by ensuring that the code 
 only added the contents within the parentheses, if an exclamation didn't precede the opening bracket (i.e.- only if "!" wasn't present before "[" ).
 
