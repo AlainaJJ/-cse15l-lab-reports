@@ -2,11 +2,11 @@
 ---
 The Markdown Parse code was bad, so I fixed it... kinda.
 
-## **Change Number 1: **
+## **Change Number 1: Extra Empty Line at the End of the File**
 ---
 ![First Code Change](https://alainajj.github.io/cse15l-lab-reports/FirstCodeChange.png)
 [First Failure Inducing Input](https://github.com/AlainaJJ/markdown-parser/blob/main/test-file.md)
-![First Code Sympton](https://github.com/AlainaJJ/markdown-parser/blob/main/FirstCodeSymptom.png)
+![First Code Symptom](https://alainajj.github.io/cse15l-lab-reports/FirstCodeSymptom.png)
 
 The first bug in encountered when working on the MarkdownParse file was that an extra line at the end of the file would lead to an infinite loop, 
 which would only be stopped by the memory being capped (which can be seen in the failure inducing input having an extra empty line at the end).
