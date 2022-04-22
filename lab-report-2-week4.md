@@ -15,7 +15,7 @@ which would only be stopped by the memory being capped (which can be seen in the
 The bug led to the code searching for more links in the test-file.md, and since it didn't have any more links to find, it would search endlessly. 
 I solved this bug by adding a code that checked for the currentIndex of an open bracket as being -1, indicating that no further line/link would be found.
 
-## **Change Number 2: **
+## **Change Number 2: Images Considered as Links**
 ---
 
 ![Second Code Change](https://alainajj.github.io/cse15l-lab-reports/SecondCodeChange.png)
@@ -26,6 +26,6 @@ I solved this bug by adding a code that checked for the currentIndex of an open 
 
 The second bug that I dealt with was the file mistakenly adding images as links to the list. It would incorrectly misinterpret the contents inside 
 of the parentheses for a link due to the similar syntax of images and links. The failure inducing input was the use of images 
-('![]()' instead of just '[]()') and the symptom would be the images being added to the list of links. This problem was solved by ensuring that the code 
-only added the contents within the parentheses, if an exclamation didn't precede the opening bracket (i.e.- only if '!' wasn't present before '[' ).
+("![]()" instead of just "[]()") and the symptom would be the images being added to the list of links. This problem was solved by ensuring that the code 
+only added the contents within the parentheses, if an exclamation didn't precede the opening bracket (i.e.- only if "!" wasn't present before "[" ).
 
