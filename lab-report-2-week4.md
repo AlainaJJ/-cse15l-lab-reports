@@ -4,7 +4,6 @@ The Markdown Parse code was bad, so I fixed it... kinda.
 
 ## **Change Number 1: Extra Empty Line at the End of the File**
 ---
-
 ![First Code Change](https://alainajj.github.io/cse15l-lab-reports/FirstCodeChange.png)
 [First Failure Inducing Input](https://github.com/AlainaJJ/markdown-parser/blob/main/test-file.md)
 ![First Code Symptom](https://alainajj.github.io/cse15l-lab-reports/FirstCodeSymptom.png)
