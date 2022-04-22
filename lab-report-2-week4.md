@@ -33,7 +33,7 @@ only added the contents within the parentheses, if an exclamation didn't precede
 ---
 
 ![Third Code Change](https://alainajj.github.io/cse15l-lab-reports/ThirdCodeChange.png)
-*Image cropped to display specific area that was altered
+*Image cropped to display specific area that was altered*
 
 [Third Failure Inducing Input (Link)](https://github.com/AlainaJJ/markdown-parser/blob/main/missing-paren.md)
 
