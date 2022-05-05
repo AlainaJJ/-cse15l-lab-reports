@@ -5,21 +5,23 @@ It focuses on three main sections:
 
 ## **Streamline SSH Configuration**
 ---
+In order to simplify the access to the server 'ieng6' we can make a 'Host name' which is used alongside the command 'ssh' in order
+to save time in having to type the original username. To do this a new file has to be set up under '~/.ssh' in your files, called 'config'
+In this file you write the following:
+
 ![ShowConfig](https://alainajj.github.io/cse15l-lab-reports/ShowSSH1.png)
+
+I personally created and modified this file in VS Code in a random folder and then moved it to the proper location with the 'mv' command:
+
 ![ShowConfig2](https://alainajj.github.io/cse15l-lab-reports/ShowSSH2.png)
+
+Afterwards you can see the log-in working successfully with the new username provided 'cs15l':
+
 ![Successful Log In](https://alainajj.github.io/cse15l-lab-reports/ShowLogIn.png)
+
+Lastly, the new username is seen in use when secure copying from the local computer to the server:
+
 ![Showing SCP](https://alainajj.github.io/cse15l-lab-reports/ShowSCP.png)
-
-
-
-[First Failure Inducing Input (Link)](https://github.com/AlainaJJ/markdown-parser/blob/main/test-file.md)
-
-![First Code Symptom](https://alainajj.github.io/cse15l-lab-reports/FirstCodeSymptom.png)
-
-The first bug I encountered when working on the MarkdownParse file was that an extra line at the end of the file would lead to an infinite loop, 
-which would only be stopped by the memory being capped (which can be seen in the failure inducing input having an extra empty line at the end).
-The bug led to the code searching for more links in the test-file.md, and since it didn't have any more links to find, it would search endlessly. 
-I solved this bug by adding a code that checked for the currentIndex of an open bracket as being -1, indicating that no further line/link would be found.
 
 ## **Setup Github Access from ieng6**
 ---
