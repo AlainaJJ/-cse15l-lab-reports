@@ -1,7 +1,11 @@
-**Week 2, 4/8/22**
+**Week 2, 4/10/22**
 - [Lab Report 1](https://AlainaJJ.github.io/cse15l-lab-reports/lab-report-1-week2.html)
 
-**Week 4, 4/22/22**
+**Week 4, 4/24/22**
 - [Lab Report 2](https://AlainaJJ.github.io/cse15l-lab-reports/lab-report-2-week4.html)
+
+**Week 6, 5/08/22**
+- [Lab Report 3](https://AlainaJJ.github.io/cse15l-lab-reports/lab-report-3-week6.html)
+
 
 
