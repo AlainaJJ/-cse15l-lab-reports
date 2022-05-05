@@ -5,7 +5,12 @@ It focuses on three main sections:
 
 ## **Streamline SSH Configuration**
 ---
-![First Code Change](https://alainajj.github.io/cse15l-lab-reports/FirstCodeChange.png)
+![ShowConfig](https://alainajj.github.io/cse15l-lab-reports/ShowSSH1.png)
+![ShowConfig2](https://alainajj.github.io/cse15l-lab-reports/ShowSSH2.png)
+![Successful Log In](https://alainajj.github.io/cse15l-lab-reports/ShowLogIn.png)
+![Showing SCP](https://alainajj.github.io/cse15l-lab-reports/ShowSCP.png)
+
+
 
 [First Failure Inducing Input (Link)](https://github.com/AlainaJJ/markdown-parser/blob/main/test-file.md)
 
