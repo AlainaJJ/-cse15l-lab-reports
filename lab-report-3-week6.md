@@ -31,15 +31,15 @@ account and store it in Github, in order to gain access.
 
 Here is a representation of where the key is stored in Github:
 
-![Public Key Store](https://alainajj.github.io/cse15l-lab-reports/ShowCom1.png)
+![Public Key Store](https://alainajj.github.io/cse15l-lab-reports/PublicKeyStore.png)
 
 We can also see where the keys are stored within you server and account below (these were generated with 'ssh-keygen'):
 
-![Public and Private Key Store](https://alainajj.github.io/cse15l-lab-reports/ShowCom1.png)
+![Public and Private Key Store](https://alainajj.github.io/cse15l-lab-reports/PrivAndPubKey.png)
 
 Now, we can once again run git commands such as 'commit' and 'push'
 
-![Running Git Commands](https://alainajj.github.io/cse15l-lab-reports/ShowCom1.png)
+![Running Git Commands](https://alainajj.github.io/cse15l-lab-reports/ShowRunGit.png)
 
 and the resulting commit can be seen in the link below.
 
