@@ -25,6 +25,25 @@ Lastly, the new username is seen in use when secure copying from the local compu
 
 ## **Setup Github Access from ieng6**
 ---
+Due to current updates trying to commit and push to Github from an IDE often results to an error. You would usually be prompted for a 
+username and password, but these are invalid ever since 2021. In order to solve this you can generate a brand new key in your ieng6
+account and store it in Github, in order to gain access.
+
+Here is a representation of where the key is stored in Github:
+
+![Public Key Store](https://alainajj.github.io/cse15l-lab-reports/ShowCom1.png)
+
+We can also see where the keys are stored within you server and account below (these were generated with 'ssh-keygen'):
+
+![Public and Private Key Store](https://alainajj.github.io/cse15l-lab-reports/ShowCom1.png)
+
+Now, we can once again run git commands such as 'commit' and 'push'
+
+![Running Git Commands](https://alainajj.github.io/cse15l-lab-reports/ShowCom1.png)
+
+and the resulting commit can be seen in the link below.
+
+[Resulting Commit](https://github.com/AlainaJJ/markdown-parser/commit/cfcb37b8ec23854e1468c3b912cca414b745cda6)
 
 ## **Copy Whole Directories with 'scp -r'**
 ---
