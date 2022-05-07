@@ -33,7 +33,8 @@ Here is a representation of where the key is stored in Github:
 
 ![Public Key Store](https://alainajj.github.io/cse15l-lab-reports/PublicKeyStore.png)
 
-We can also see where the keys are stored within you server and account below (these were generated with 'ssh-keygen'):
+We can also see where the keys are stored within you server and account below (these were generated with 'ssh-keygen'). The public key 
+is represented by id_rsa.pub, and the private key is id_rsa.
 
 ![Public and Private Key Store](https://alainajj.github.io/cse15l-lab-reports/PrivAndPubKey.png)
 
