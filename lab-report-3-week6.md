@@ -26,5 +26,19 @@ Lastly, the new username is seen in use when secure copying from the local compu
 ## **Setup Github Access from ieng6**
 ---
 
-## **Copy Whole Directories with 'scp-r'**
+## **Copy Whole Directories with 'scp -r'**
 ---
+Copying file by file can be a tedious task that can cost you a lot of time when working on projects. This can luckily be fixed with a simple
+command, 'scp -r'. This command copies whole repositories, their folders, directories, and files, from your local computer to a server. To
+use it you have to type 'scp -r' followed by the location you want to copy the directories and files to. 
+
+![Copying Markdown-Parser](https://alainajj.github.io/cse15l-lab-reports/ShowCopyingFolder.png)
+
+We can see this change by logging into the server and looking at 'markdown-parser'.
+
+![Show Logging After Copy](https://alainajj.github.io/cse15l-lab-reports/ShowLogInCopy.png)
+
+You can also simplify this process and even run files in a single line by combining different commands with ';'.
+
+![Show Combination 1](https://alainajj.github.io/cse15l-lab-reports/ShowCom1.png)
+![Show Combination 2](https://alainajj.github.io/cse15l-lab-reports/ShowCom2.png)
