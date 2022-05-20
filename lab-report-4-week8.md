@@ -10,8 +10,25 @@ Link to forked repo
 
 ## **What Outcome do we Expect and Demonstrating the Tests Created**
 ---
-Expected outcome 
-Tests Created
+**Expected Outcome**
+Snippet 1-
+google.com
+
+Snippet 2-
+a.com
+a.com(())
+example.com
+
+Snippet 3-
+https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule
+
+**Tests Created**
+Personal-
+[Personal MDP Tests](https://alainajj.github.io/cse15l-lab-reports/PersonalTests.png)
+
+Reviwed-
+[Reviewed MDP Tests](https://alainajj.github.io/cse15l-lab-reports/ReviewedTests.png)
+
 
 ## **Actual Outcome on MarkdownParser**
 ---
