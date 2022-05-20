@@ -14,6 +14,7 @@ another person's (a reviewed) repository.
 ## **What Outcome do we Expect and Demonstrating the Tests Created**
 ---
 **Expected Outcome**
+
 Snippet 1-
 google.com
 
@@ -26,6 +27,7 @@ Snippet 3-
 https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule
 
 **Tests Created**
+
 Personal-
 [Personal MDP Tests](https://alainajj.github.io/cse15l-lab-reports/PersonalTests.png)
 
