@@ -5,10 +5,10 @@ another person's (a reviewed) repository.
 ---
 ## **Links to Repositories**
 ---
-**Link to **
+**Link to**
 [Personal Repository](https://github.com/AlainaJJ/markdown-parser)
 
-**Link to **
+**Link to**
 [Reviewed Repository](https://github.com/AlainaJJ/markdown-parser)
 
 ## **What Outcome do we Expect and Demonstrating the Tests Created**
