@@ -23,33 +23,31 @@ google.com
 **Tests Created**
 
 Personal-
-[Personal MDP Tests](https://alainajj.github.io/cse15l-lab-reports/PersonalTests.png)
+![Personal MDP Tests](https://alainajj.github.io/cse15l-lab-reports/PersonalTestsSnip1.png)
 
 Reviwed-
-[Reviewed MDP Tests](https://alainajj.github.io/cse15l-lab-reports/ReviewedTests.png)
+![Reviewed MDP Tests](https://alainajj.github.io/cse15l-lab-reports/ReviewedTestsSnip1.png)
 
 
-## **Actual Outcome on MarkdownParser**
+## **Snippet #1: Actual Outcome on MarkdownParser**
 ---
-My Markdown Parse
-Show outcome/output when running the tests
-Say if it passed or show if it failed and how to tell
+Snip #1 failed the test for both me and the reviewed repository. The expected outcome
+doesn't match the actual outcome, and the test appears as failing when run.
+This can be seen in the below images:
 
-Forked Markdown Parse 
-Show outcome/output when running the tests
-Say if it passed or fhow if it failed and how to tell
+My Markdown Parse-
 
-## **Possible Fixes for Failing Tests**
+![Personal MDP Outcome](ttps://alainajj.github.io/cse15l-lab-reports/GoodMarkdownTestOutputSnip1.png)
+
+Forked Markdown Parse- 
+
+![Reviewed MDP Outcome](ttps://alainajj.github.io/cse15l-lab-reports/ReviewedTestOutputSnip1.png)
+
+## **Snippet #1: Possible Fixes for Failing Tests**
 ---
 Inline Code w/ Backticks
 
-Nested Parentheses, Brackets, and Escaped Brackets
-
-Newlines in Brackets
-
 ---
-
-
 
 
 ## **Snippet #2: What Outcome do we Expect and Demonstrating the Tests Created**
@@ -66,32 +64,30 @@ example.com
 **Tests Created**
 
 Personal-
-[Personal MDP Tests](https://alainajj.github.io/cse15l-lab-reports/PersonalTests.png)
+![Personal MDP Tests](https://alainajj.github.io/cse15l-lab-reports/PersonalTestsSnip2.png)
 
 Reviwed-
-[Reviewed MDP Tests](https://alainajj.github.io/cse15l-lab-reports/ReviewedTests.png)
+![Reviewed MDP Tests](https://alainajj.github.io/cse15l-lab-reports/ReviewedTestsSnip2.png)
 
-
-## **Actual Outcome on MarkdownParser**
+## **Snippet #2: Actual Outcome on MarkdownParser**
 ---
-My Markdown Parse
-Show outcome/output when running the tests
-Say if it passed or show if it failed and how to tell
+Snip #2 failed the test for both me and the reviewed repository. The expected outcome
+doesn't match the actual outcome, and the test appears as failing when run.
+This can be seen in the below images:
 
-Forked Markdown Parse 
-Show outcome/output when running the tests
-Say if it passed or fhow if it failed and how to tell
+My Markdown Parse-
 
-## **Possible Fixes for Failing Tests**
+![Personal MDP Outcome](ttps://alainajj.github.io/cse15l-lab-reports/GoodMarkdownTestOutputSnip1.png)
+
+Forked Markdown Parse- 
+
+![Reviewed MDP Outcome](ttps://alainajj.github.io/cse15l-lab-reports/ReviewedTestOutputSnip1.png)
+
+## **Snippet #2: Possible Fixes for Failing Tests**
 ---
-Inline Code w/ Backticks
-
 Nested Parentheses, Brackets, and Escaped Brackets
 
-Newlines in Brackets
 ---
-
-
 
 
 ## **Snippet #3: What Outcome do we Expect and Demonstrating the Tests Created**
@@ -106,27 +102,27 @@ https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule
 **Tests Created**
 
 Personal-
-[Personal MDP Tests](https://alainajj.github.io/cse15l-lab-reports/PersonalTests.png)
+[Personal MDP Tests](https://alainajj.github.io/cse15l-lab-reports/PersonalTestsSnip3.png)
 
 Reviwed-
-[Reviewed MDP Tests](https://alainajj.github.io/cse15l-lab-reports/ReviewedTests.png)
+[Reviewed MDP Tests](https://alainajj.github.io/cse15l-lab-reports/ReviewedTestsSnip3.png)
 
-
-## **Actual Outcome on MarkdownParser**
+## **Snippet #3: Actual Outcome on MarkdownParser**
 ---
-My Markdown Parse
-Show outcome/output when running the tests
-Say if it passed or show if it failed and how to tell
+Snip #3 failed the test for both me and the reviewed repository. The expected outcome
+doesn't match the actual outcome, and the test appears as failing when run.
+This can be seen in the below images:
 
-Forked Markdown Parse 
-Show outcome/output when running the tests
-Say if it passed or fhow if it failed and how to tell
+My Markdown Parse-
 
-## **Possible Fixes for Failing Tests**
+![Personal MDP Outcome](ttps://alainajj.github.io/cse15l-lab-reports/GoodMarkdownTestOutputSnip1.png)
+
+Forked Markdown Parse- 
+
+![Reviewed MDP Outcome](ttps://alainajj.github.io/cse15l-lab-reports/ReviewedTestOutputSnip1.png)
+
+
+## **Snippet #3: Possible Fixes for Failing Tests**
 ---
-Inline Code w/ Backticks
-
-Nested Parentheses, Brackets, and Escaped Brackets
-
 Newlines in Brackets
 
