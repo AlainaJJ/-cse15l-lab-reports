@@ -28,7 +28,6 @@ Personal-
 Reviwed-
 ![Reviewed MDP Tests](https://alainajj.github.io/cse15l-lab-reports/ReviewedTestsSnip1.png)
 
-
 ## **Snippet #1: Actual Outcome on MarkdownParser**
 ---
 Snip #1 failed the test for both me and the reviewed repository. The expected outcome
@@ -111,10 +110,10 @@ https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule
 **Tests Created**
 
 Personal-
-[Personal MDP Tests](https://alainajj.github.io/cse15l-lab-reports/PersonalTestsSnip3.png)
+![Personal MDP Tests](https://alainajj.github.io/cse15l-lab-reports/PersonalTestsSnip3.png)
 
 Reviwed-
-[Reviewed MDP Tests](https://alainajj.github.io/cse15l-lab-reports/ReviewedTestsSnip3.png)
+![Reviewed MDP Tests](https://alainajj.github.io/cse15l-lab-reports/ReviewedTestsSnip3.png)
 
 ## **Snippet #3: Actual Outcome on MarkdownParser**
 ---
