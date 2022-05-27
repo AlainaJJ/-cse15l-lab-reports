@@ -36,11 +36,11 @@ This can be seen in the below images:
 
 My Markdown Parse-
 
-![Personal MDP Outcome 1](ttps://alainajj.github.io/cse15l-lab-reports/GoodMarkdownTestOutputSnip1.png)
+![Personal MDP Outcome 1](https://alainajj.github.io/cse15l-lab-reports/GoodMarkdownTestOutputSnip1.png)
 
 Forked Markdown Parse- 
 
-![Reviewed MDP Outcome 1](ttps://alainajj.github.io/cse15l-lab-reports/ReviewedTestOutputSnip1.png)
+![Reviewed MDP Outcome 1](https://alainajj.github.io/cse15l-lab-reports/ReviewedTestOutputSnip1.png)
 
 ## **Snippet #1: Possible Fixes for Failing Tests**
 ---
@@ -87,11 +87,11 @@ This can be seen in the below images:
 
 My Markdown Parse-
 
-![Personal MDP Outcome 2](ttps://alainajj.github.io/cse15l-lab-reports/GoodMarkdownTestOutputSnip1.png)
+![Personal MDP Outcome 2](https://alainajj.github.io/cse15l-lab-reports/GoodMarkdownTestOutputSnip1.png)
 
 Forked Markdown Parse- 
 
-![Reviewed MDP Outcome 2](ttps://alainajj.github.io/cse15l-lab-reports/ReviewedTestOutputSnip1.png)
+![Reviewed MDP Outcome 2](https://alainajj.github.io/cse15l-lab-reports/ReviewedTestOutputSnip1.png)
 
 ## **Snippet #2: Possible Fixes for Failing Tests**
 ---
@@ -139,11 +139,11 @@ This can be seen in the below images:
 
 My Markdown Parse-
 
-![Personal MDP Outcome 3](ttps://alainajj.github.io/cse15l-lab-reports/GoodMarkdownTestOutputSnip1.png)
+![Personal MDP Outcome 3](https://alainajj.github.io/cse15l-lab-reports/GoodMarkdownTestOutputSnip1.png)
 
 Forked Markdown Parse- 
 
-![Reviewed MDP Outcome 3](ttps://alainajj.github.io/cse15l-lab-reports/ReviewedTestOutputSnip1.png)
+![Reviewed MDP Outcome 3](https://alainajj.github.io/cse15l-lab-reports/ReviewedTestOutputSnip1.png)
 
 ## **Snippet #3: Possible Fixes for Failing Tests**
 ---
