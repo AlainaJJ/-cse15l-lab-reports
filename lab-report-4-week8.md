@@ -11,17 +11,92 @@ another person's (a reviewed) repository.
 **Link to**
 [Reviewed Repository](https://github.com/AlainaJJ/reviewed-markdown-parser)
 
-## **What Outcome do we Expect and Demonstrating the Tests Created**
+## **Snippet #1: What Outcome do we Expect and Demonstrating the Tests Created**
 ---
 **Expected Outcome**
 
 Snippet 1-
 google.com
 
+(Based on the markdown parse website: [CommonMark](https://spec.commonmark.org/dingus/)
+
+**Tests Created**
+
+Personal-
+[Personal MDP Tests](https://alainajj.github.io/cse15l-lab-reports/PersonalTests.png)
+
+Reviwed-
+[Reviewed MDP Tests](https://alainajj.github.io/cse15l-lab-reports/ReviewedTests.png)
+
+
+## **Actual Outcome on MarkdownParser**
+---
+My Markdown Parse
+Show outcome/output when running the tests
+Say if it passed or show if it failed and how to tell
+
+Forked Markdown Parse 
+Show outcome/output when running the tests
+Say if it passed or fhow if it failed and how to tell
+
+## **Possible Fixes for Failing Tests**
+---
+Inline Code w/ Backticks
+
+Nested Parentheses, Brackets, and Escaped Brackets
+
+Newlines in Brackets
+
+---
+
+
+
+
+## **Snippet #2: What Outcome do we Expect and Demonstrating the Tests Created**
+---
+**Expected Outcome**
+
 Snippet 2-
 a.com
 a.com(())
 example.com
+
+(Based on the markdown parse website: [CommonMark](https://spec.commonmark.org/dingus/)
+
+**Tests Created**
+
+Personal-
+[Personal MDP Tests](https://alainajj.github.io/cse15l-lab-reports/PersonalTests.png)
+
+Reviwed-
+[Reviewed MDP Tests](https://alainajj.github.io/cse15l-lab-reports/ReviewedTests.png)
+
+
+## **Actual Outcome on MarkdownParser**
+---
+My Markdown Parse
+Show outcome/output when running the tests
+Say if it passed or show if it failed and how to tell
+
+Forked Markdown Parse 
+Show outcome/output when running the tests
+Say if it passed or fhow if it failed and how to tell
+
+## **Possible Fixes for Failing Tests**
+---
+Inline Code w/ Backticks
+
+Nested Parentheses, Brackets, and Escaped Brackets
+
+Newlines in Brackets
+---
+
+
+
+
+## **Snippet #3: What Outcome do we Expect and Demonstrating the Tests Created**
+---
+**Expected Outcome**
 
 Snippet 3-
 https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule
@@ -55,4 +130,3 @@ Nested Parentheses, Brackets, and Escaped Brackets
 
 Newlines in Brackets
 
----
