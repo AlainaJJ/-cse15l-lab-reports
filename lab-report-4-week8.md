@@ -45,7 +45,11 @@ Forked Markdown Parse-
 
 ## **Snippet #1: Possible Fixes for Failing Tests**
 ---
-Inline Code w/ Backticks
+*Inline Code w/ Backticks*
+Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases 
+that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
+
+Answer
 
 ---
 
@@ -85,7 +89,12 @@ Forked Markdown Parse-
 
 ## **Snippet #2: Possible Fixes for Failing Tests**
 ---
-Nested Parentheses, Brackets, and Escaped Brackets
+*Nested Parentheses, Brackets, and Escaped Brackets*
+Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases 
+that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be 
+a more involved change.
+
+Answer
 
 ---
 
@@ -121,8 +130,12 @@ Forked Markdown Parse-
 
 ![Reviewed MDP Outcome](ttps://alainajj.github.io/cse15l-lab-reports/ReviewedTestOutputSnip1.png)
 
-
 ## **Snippet #3: Possible Fixes for Failing Tests**
 ---
-Newlines in Brackets
+*Newlines in Brackets*
+Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related 
+cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would 
+be a more involved change.
+
+Answer
 
