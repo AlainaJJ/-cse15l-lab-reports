@@ -18,7 +18,7 @@ another person's (a reviewed) repository.
 Snippet 1-
 google.com
 
-(Based on the markdown parse website: [CommonMark](https://spec.commonmark.org/dingus/)
+(Based on the markdown parse website: [CommonMark](https://spec.commonmark.org/dingus/))
 
 **Tests Created**
 
@@ -69,7 +69,7 @@ a.com
 a.com(())
 example.com
 
-(Based on the markdown parse website: [CommonMark](https://spec.commonmark.org/dingus/)
+(Based on the markdown parse website: [CommonMark](https://spec.commonmark.org/dingus/))
 
 **Tests Created**
 
@@ -121,7 +121,7 @@ MarkdownParse file (next to currentIndex, before return statements, when declari
 Snippet 3-
 https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule
 
-(Based on the markdown parse website: [CommonMark](https://spec.commonmark.org/dingus/)
+(Based on the markdown parse website: [CommonMark](https://spec.commonmark.org/dingus/))
 
 **Tests Created**
 
