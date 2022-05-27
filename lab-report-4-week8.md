@@ -23,10 +23,10 @@ google.com
 **Tests Created**
 
 Personal-
-![Personal MDP Tests](https://alainajj.github.io/cse15l-lab-reports/PersonalTestsSnip1.png)
+![Personal Snip Test 1](https://alainajj.github.io/cse15l-lab-reports/PersonalTestsSnip1.png)
 
 Reviwed-
-![Reviewed MDP Tests](https://alainajj.github.io/cse15l-lab-reports/ReviewedTestsSnip1.png)
+![Reviewed Snip Test 1](https://alainajj.github.io/cse15l-lab-reports/ReviewedTestsSnip1.png)
 
 ## **Snippet #1: Actual Outcome on MarkdownParser**
 ---
@@ -74,10 +74,10 @@ example.com
 **Tests Created**
 
 Personal-
-![Personal MDP Tests](https://alainajj.github.io/cse15l-lab-reports/PersonalTestsSnip2.png)
+![Personal Snip Test 2](https://alainajj.github.io/cse15l-lab-reports/PersonalTestsSnip2.png)
 
 Reviwed-
-![Reviewed MDP Tests](https://alainajj.github.io/cse15l-lab-reports/ReviewedTestsSnip2.png)
+![Reviewed Snip Test 2](https://alainajj.github.io/cse15l-lab-reports/ReviewedTestsSnip2.png)
 
 ## **Snippet #2: Actual Outcome on MarkdownParser**
 ---
@@ -126,10 +126,10 @@ https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule
 **Tests Created**
 
 Personal-
-![Personal MDP Tests](https://alainajj.github.io/cse15l-lab-reports/PersonalTestsSnip3.png)
+![Personal MDP Snip Test 3](https://alainajj.github.io/cse15l-lab-reports/PersonalTestsSnip3.png)
 
 Reviwed-
-![Reviewed MDP Tests](https://alainajj.github.io/cse15l-lab-reports/ReviewedTestsSnip3.png)
+![Reviewed MDP Snip Test 3](https://alainajj.github.io/cse15l-lab-reports/ReviewedTestsSnip3.png)
 
 ## **Snippet #3: Actual Outcome on MarkdownParser**
 ---
