@@ -5,7 +5,6 @@ In this page, several markdown parse tests will be created and their outputs wil
 another person's (a reviewed) repository.
 
 ---
-
 ## **Links to Repositories**
 ---
 
