@@ -1,11 +1,14 @@
 # **Creating (More) Tests for MarkdownParse**
 ---
+
 In this page, several markdown parse tests will be created and their outputs will be demonstrated for both my code, and the code of 
 another person's (a reviewed) repository.
 
 ---
+
 ## **Links to Repositories**
 ---
+
 **Link to**
 [Personal Repository](https://github.com/AlainaJJ/good-markdown-parser)
 
@@ -13,7 +16,9 @@ another person's (a reviewed) repository.
 [Reviewed Repository](https://github.com/AlainaJJ/reviewed-markdown-parser)
 
 ## **Snippet #1: What Outcome do we Expect and Demonstrating the Tests Created**
+
 ---
+
 **Expected Outcome**
 
 Snippet 1-
@@ -31,6 +36,7 @@ Reviwed-
 
 ## **Snippet #1: Actual Outcome on MarkdownParser**
 ---
+
 Snip #1 failed the test for both me and the reviewed repository. The expected outcome
 doesn't match the actual outcome, and the test appears as failing when run.
 This can be seen in the below images:
@@ -45,6 +51,7 @@ Forked Markdown Parse-
 
 ## **Snippet #1: Possible Fixes for Failing Tests**
 ---
+
 *Inline Code w/ Backticks*
 
 Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases 
@@ -63,6 +70,7 @@ would still exist within the max line limit.
 
 ## **Snippet #2: What Outcome do we Expect and Demonstrating the Tests Created**
 ---
+
 **Expected Outcome**
 
 Snippet 2-
@@ -82,6 +90,7 @@ Reviwed-
 
 ## **Snippet #2: Actual Outcome on MarkdownParser**
 ---
+
 Snip #2 failed the test for both me and the reviewed repository. The expected outcome
 doesn't match the actual outcome, and the test appears as failing when run.
 This can be seen in the below images:
@@ -96,6 +105,7 @@ Forked Markdown Parse-
 
 ## **Snippet #2: Possible Fixes for Failing Tests**
 ---
+
 *Nested Parentheses, Brackets, and Escaped Brackets*
 
 Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases 
@@ -117,6 +127,7 @@ MarkdownParse file (next to currentIndex, before return statements, when declari
 
 ## **Snippet #3: What Outcome do we Expect and Demonstrating the Tests Created**
 ---
+
 **Expected Outcome**
 
 Snippet 3-
@@ -134,6 +145,7 @@ Reviwed-
 
 ## **Snippet #3: Actual Outcome on MarkdownParser**
 ---
+
 Snip #3 failed the test for both me and the reviewed repository. The expected outcome
 doesn't match the actual outcome, and the test appears as failing when run.
 This can be seen in the below images:
@@ -148,6 +160,7 @@ Forked Markdown Parse-
 
 ## **Snippet #3: Possible Fixes for Failing Tests**
 ---
+
 *Newlines in Brackets*
 
 Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related 
