@@ -6,10 +6,10 @@ another person's (a reviewed) repository.
 ## **Links to Repositories**
 ---
 **Link to**
-[Personal Repository](https://github.com/AlainaJJ/markdown-parser)
+[Personal Repository](https://github.com/AlainaJJ/good-markdown-parser)
 
 **Link to**
-[Reviewed Repository](https://github.com/AlainaJJ/markdown-parser)
+[Reviewed Repository](https://github.com/AlainaJJ/reviewed-markdown-parser)
 
 ## **What Outcome do we Expect and Demonstrating the Tests Created**
 ---
@@ -25,6 +25,8 @@ example.com
 
 Snippet 3-
 https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule
+
+(Based on the markdown parse website: [CommonMark](https://spec.commonmark.org/dingus/)
 
 **Tests Created**
 
