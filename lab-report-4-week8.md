@@ -44,7 +44,7 @@ My Markdown Parse-
 
 ![Personal MDP Outcome 1](https://alainajj.github.io/cse15l-lab-reports/GoodMarkdownTestOutputSnip1.png)
 
-Forked Markdown Parse- 
+Reviewed Markdown Parse- 
 
 ![Reviewed MDP Outcome 1](https://alainajj.github.io/cse15l-lab-reports/ReviewedTestOutputSnip1.png)
 
@@ -98,7 +98,7 @@ My Markdown Parse-
 
 ![Personal MDP Outcome 2](https://alainajj.github.io/cse15l-lab-reports/GoodMarkdownTestOutputSnip2.png)
 
-Forked Markdown Parse- 
+Reviewed Markdown Parse- 
 
 ![Reviewed MDP Outcome 2](https://alainajj.github.io/cse15l-lab-reports/ReviewedTestOutputSnip2.png)
 
@@ -153,7 +153,7 @@ My Markdown Parse-
 
 ![Personal MDP Outcome 3](https://alainajj.github.io/cse15l-lab-reports/GoodMarkdownTestOutputSnip3.png)
 
-Forked Markdown Parse- 
+Reviewed Markdown Parse- 
 
 ![Reviewed MDP Outcome 3](https://alainajj.github.io/cse15l-lab-reports/ReviewedTestOutputSnip3.png)
 
