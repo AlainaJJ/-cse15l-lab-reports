@@ -118,7 +118,7 @@ more complicated to account for which parentheses and brackets should count for 
 change is still doable however. I could easily see something that checks where the first open bracket is, keeps track of 
 the ending bracket, updating its indexOf every time a new one is encountered. The same would be done for the parentheses
 to ensure that only 1 pair of brackets and parenthess (opening and closing) are used to identify what belongs within a link.
-That being said the change might take more than a 10 lines, and might have to be incorporated across different parts of the
+That being said the change might take more than 10 lines, and might have to be incorporated across different parts of the
 MarkdownParse file (next to currentIndex, before return statements, when declaring parentheses and brackets and etc.).
 
 ---
@@ -172,4 +172,3 @@ Yes. I think the problem with snippet 3 could easily be resolved with a less tha
 within the markdown parser files (both mine and reviewed) we are already checking for the index of unique characters such
 as "!" to avoid confusing links for images. This same structure could be used, except this time to check for newlines within 
 the brackets and parentheses instead. 
-parentheses 
