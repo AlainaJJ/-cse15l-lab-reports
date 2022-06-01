@@ -10,5 +10,9 @@
 **Week 8, 5/20/22**
 - [Lab Report 4](https://AlainaJJ.github.io/cse15l-lab-reports/lab-report-4-week8.html)
 
+**Week 10, 6/5/22**
+- [Lab Report 5](https://AlainaJJ.github.io/cse15l-lab-reports/lab-report-5-week10.html)
+
+
 
 
