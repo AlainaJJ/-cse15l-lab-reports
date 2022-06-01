@@ -14,6 +14,24 @@ With it, I found there to be a large variety of differences:
 
 ![VimDiff SS](https://alainajj.github.io/cse15l-lab-reports/VimDiffSS.png)
 
+## **Understanding and Displaying the Outcome of Two Tests**
+
+The link for the two tests that will be looked at are provided below:
+
+[Link to Test #1](https://github.com/AlainaJJ/markdown-parser/commit/cfcb37b8ec23854e1468c3b912cca414b745cda6)
+[Link to Test #2](https://github.com/AlainaJJ/markdown-parser/commit/cfcb37b8ec23854e1468c3b912cca414b745cda6)
+
+And the actual outcome that was obtained using the provided MarkdownRepository can similarly be seen here:
+
+![VimTestOutcomes](https://alainajj.github.io/cse15l-lab-reports/VimTestOutcomes.png)
+
+Lastly, we can see the expected outcome from the website
+
+![ExpectedOutcome](https://alainajj.github.io/cse15l-lab-reports/VimTestOutcomes.png)
+
+From this we can see start to analyzing what the proper implementation for the MarkdownParse file is. 
+
+We can see the 
 
 
 
