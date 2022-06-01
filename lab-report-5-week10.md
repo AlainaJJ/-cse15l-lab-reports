@@ -5,9 +5,13 @@ to identify what needs to be improved in the implementations of a MarkdownParse.
 ---
 ## **How to Identify the Tests with Different Results?**
 
-The easiest way in which I could fin dto demonstrate the different test outcomes after running the file was using 'vimdiff'. This
-command highlights any test cases that may have had unexpected or incorrect outputs. When using it on my personal copy of MarkdownParse
-I found there to be a large variety of differences:
+The easiest way in which I could find to demonstrate the different test outcomes after running the file was using 'vimdiff'. To do this
+I had to create two different 'results.txt' files, one with the expected/correct outputs of the markdown parse file (left side of the
+image) and one from the provided implementation of the Markdown Parse from Lab 9. Calling 'vimdiff' on these two results files causes 
+any differing outcomes to be highlighted.
+
+With it, I found there to be a large variety of differences:
+
 ![VimDiff SS](https://alainajj.github.io/cse15l-lab-reports/VimDiffSS.png)
 
 
