@@ -25,13 +25,15 @@ And the actual outcome that was obtained using the provided MarkdownRepository c
 
 ![VimTestOutcomes](https://alainajj.github.io/cse15l-lab-reports/VimTestOutcomes.png)
 
-Lastly, we can see the expected outcome from the website
+Lastly, we can see the expected outcome from the website [CommonMark](https://spec.commonmark.org/dingus/):
 
 ![ExpectedOutcome](https://alainajj.github.io/cse15l-lab-reports/VimTestOutcomes.png)
 
 From this we can see start to analyzing what the proper implementation for the MarkdownParse file is. 
 
-We can see the 
+## **Addressing the Bug and Possible Fixes**
+
+![CodeToImprove](https://alainajj.github.io/cse15l-lab-reports/CodeToImprove.png)
 
 
 
