@@ -2,6 +2,7 @@
 ---
 The focus for this page is running hundreds of provided tests on implementations of MarkdownParse, and comparing the outputs as a means 
 to identify what needs to be improved in the implementations of a MarkdownParse.
+
 ---
 ## **How to Identify the Tests with Different Results?**
 
