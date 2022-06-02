@@ -19,6 +19,7 @@ With it, I found there to be a large variety of differences:
 The link for the two tests that will be looked at are provided below:
 
 [Link to Test #1 (498)](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/498.md)
+
 [Link to Test #2 (504)](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/504.md)
 
 And the actual outcome that was obtained using the provided MarkdownRepository can similarly be seen here:
