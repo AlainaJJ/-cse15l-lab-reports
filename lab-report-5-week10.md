@@ -34,6 +34,7 @@ Lastly, we can see the expected outcome from the website [CommonMark](https://sp
 From this we can note that the proper implementation of the file is the one seen by CommonMark which has a single url for test 498,
 and 3 urls for 504.
 
+---
 ## **Addressing the Bug and Possible Fixes**
 
 Having seen the expected outcomes we can start analyzing what changes are necessary to improve my copy of MarkdownParse. The main
