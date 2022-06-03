@@ -15,6 +15,7 @@ With it, I found there to be a large variety of differences:
 
 ![VimDiff SS](https://alainajj.github.io/cse15l-lab-reports/VimDiffSS.png)
 
+---
 ## **Understanding and Displaying the Outcome of Two Tests**
 
 The link for the two tests that will be looked at are provided below:
@@ -32,7 +33,8 @@ Lastly, we can see the expected outcome from the website [CommonMark](https://sp
 ![ExpectedOutcome](https://alainajj.github.io/cse15l-lab-reports/ExpectedOutcomes.png)
 
 From this we can note that the proper implementation of the file is the one seen by CommonMark which has a single url for test 498,
-and 3 urls for 504.
+and 3 urls for 504. This further represents that the expected outcomes for these tests as seen in the provided repository are
+accurate, and follow the aforementioned proper implementation.
 
 ---
 ## **Addressing the Bug and Possible Fixes**
