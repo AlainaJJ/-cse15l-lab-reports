@@ -23,7 +23,7 @@ The link for the two tests that will be looked at are provided below:
 
 [Link to Test #2 (504)](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/504.md)
 
-And the actual outcome that was obtained using the provided MarkdownRepository can similarly be seen here:
+And the actual outcomes that were obtained by my MarkdownParse can similarly be seen here:
 
 ![VimTestOutcomes](https://alainajj.github.io/cse15l-lab-reports/VimTestOutcomes.png)
 
