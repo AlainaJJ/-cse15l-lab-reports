@@ -8,8 +8,8 @@ to identify what needs to be improved in the implementations of a MarkdownParse.
 
 The easiest way in which I could find to demonstrate the different test outcomes after running the file was using 'vimdiff'. To do this
 I had to create two different 'results.txt' files, one with the expected/correct outputs of the markdown parse file (left side of the
-image) and one from the provided implementation of the Markdown Parse from Lab 9. Calling 'vimdiff' on these two results files causes 
-any differing outcomes to be highlighted.
+image) and one from my implementation of the MarkdownParse file. Calling 'vimdiff' on these two results files causes any differing outcomes 
+to be highlighted.
 
 With it, I found there to be a large variety of differences:
 
